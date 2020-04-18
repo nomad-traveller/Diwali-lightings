@@ -1,4 +1,4 @@
-# Problem-A.-Diwali-lightings
+# Diwali-lightings
 Solution of Problem A. Diwali lightings
 
 4/18/20
