@@ -1,4 +1,6 @@
+// April 18 2020
 // https://code.google.com/codejam/contest/5264487/dashboard
+// This file will be commented in due curse
 
 #include <stdio.h>
 #include <stdlib.h>
